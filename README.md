@@ -1,4 +1,4 @@
--# Hi, I'm Anna (aka @ReviIsCoding) 👋
+# Hi, I'm Anna (aka @ReviIsCoding) 👋
 
 I'm transitioning from a non-technical background into the field of **Artificial Intelligence**, **Data Science**, and **LLM-based technologies**.  
 Currently, I'm building my foundations in **Python programming**, **data analysis**, and **prompt engineering**, with a strong focus on understanding how AI can augment real-world tasks.
